@@ -8,5 +8,6 @@ namespace MySnake
 {
     class Point
     {
+         
     }
 }
